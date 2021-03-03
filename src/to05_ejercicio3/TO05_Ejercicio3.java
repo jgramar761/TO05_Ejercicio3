@@ -12,7 +12,6 @@
  * Estadísticas: se mostrará un resumen de los alquileres, las reparaciones y las ventas realizadas (cantidad y precio total), así como el resultado de ingresos y gastos.
  * Salir.
  */
-/*modificado para probar git*/
 package to05_ejercicio3;
 import static to05_ejercicio3.ES.*;
 
